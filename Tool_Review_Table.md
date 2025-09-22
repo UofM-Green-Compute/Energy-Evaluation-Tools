@@ -1,6 +1,6 @@
 | Tool Name | Type of Tool | Measured Components | Process or Machine-level Estimate? | Limitations | Carbon footprint or Energy Evaluated? | Github Link | How to Cite |
 |---|---|---|---|---|---|---|---|
-| GreenAlgorithms | Online Calculator | CPU, GPU, RAM | Process | N/A | Carbon Footprint | https://github.com/GreenAlgorithms/green-algorithms-tool |  https://doi.org/10.1002/advs.202100707 |
+| GreenAlgorithms | Online Calculator | CPU, GPU, RAM | Process | N/A | Carbon Footprint | https://github.com/GreenAlgorithms/green-algorithms-tool |  https://doi.org/10.1002/advs.202100707, https://arxiv.org/abs/2007.07610 |
 | CodeCarbon | Embedded Package | CPU, RAM, GPU | Both | Nvidia GPU | Carbon Footprint | https://github.com/mlco2/codecarbon | N/A (cite website) |
 | Eco2AI | Embedded Package | CPU, RAM, GPU | Machine | Nvidia GPU | Carbon Footprint | https://github.com/sb-ai-lab/Eco2AI | https://arxiv.org/abs/2208.00406 |
 | CarbonTracker | Embedded Package | CPU, RAM, GPU | Machine | Intel CPU, Nvidia GPU, Linux/mac OS | Carbon Footprint | https://github.com/lfwa/carbontracker | https://arxiv.org/abs/2007.03051 |
